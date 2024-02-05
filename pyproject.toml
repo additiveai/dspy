@@ -50,6 +50,7 @@ docs = [
     "sphinx-reredirects>=0.1.2",
     "sphinx-automodapi==0.16.0"
 ]
+openai-v1 = ["openai~=1.11"]
 
 [project.urls]
 homepage = "https://github.com/stanfordnlp/dspy"
